@@ -35,6 +35,8 @@ li:hover>ul{
 	background: #DCDCDC;
 	display: flex;
 	position: fixed;
+	left:10px;
+	top:10px;
 }
 .header_name{
 	display: flex;
